@@ -13,7 +13,7 @@ o	Division
 
 ## Explanation of Task-1:
 I have taken two numbers from user as float using input function and used assignement operator to add, sub, mult, div.
-And i have used f sting to print the output.
+And i have used f string to print the output.
 
 ## Task-2
 Task 2: Create a Personalized Greeting
